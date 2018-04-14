@@ -1,0 +1,12 @@
+C:\Users\New User\Desktop\2018\Ca2DB\Ca2DB\bin\Debug\Ca2DB.exe.config
+C:\Users\New User\Desktop\2018\Ca2DB\Ca2DB\bin\Debug\Ca2DB.exe
+C:\Users\New User\Desktop\2018\Ca2DB\Ca2DB\bin\Debug\Ca2DB.pdb
+C:\Users\New User\Desktop\2018\Ca2DB\Ca2DB\bin\Debug\EntityFramework.dll
+C:\Users\New User\Desktop\2018\Ca2DB\Ca2DB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\New User\Desktop\2018\Ca2DB\Ca2DB\bin\Debug\EntityFramework.xml
+C:\Users\New User\Desktop\2018\Ca2DB\Ca2DB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\New User\Desktop\2018\Ca2DB\Ca2DB\obj\Debug\Ca2DB.exe
+C:\Users\New User\Desktop\2018\Ca2DB\Ca2DB\obj\Debug\Ca2DB.pdb
+C:\Users\New User\Desktop\2018\CA2\Ca2DB\Ca2DB\bin\Debug\Ca2DB.exe.config
+C:\Users\New User\Desktop\2018\CA2\Ca2DB\Ca2DB\obj\Debug\Ca2DB.exe
+C:\Users\New User\Desktop\2018\CA2\Ca2DB\Ca2DB\obj\Debug\Ca2DB.pdb
